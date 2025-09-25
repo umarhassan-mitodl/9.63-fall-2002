@@ -1,0 +1,45 @@
+{
+  "term": "Fall",
+  "year": "2002",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Cognitive Science"
+    ]
+  ],
+  "legacy_uid": "2a1c6495-764d-de0e-65dd-1ccc60ac1f27",
+  "instructors": {
+    "content": [
+      "c2ff1985-3a53-6817-6310-f9326c668333"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "90fc9dd9-3005-07d9-412a-88f05922c180",
+    "website": "9-63-laboratory-in-cognitive-science-fall-2002"
+  },
+  "course_title": "Laboratory in Cognitive Science",
+  "hide_download": true,
+  "course_description": "Teaches principles of experimental methods in human perception and cognition, including design and statistical analysis. Combines lectures and hands-on experimental exercises; requires an independent experimental project. Some experience in programming desirable. To foster improved writing and presentation skills in conducting and critiquing research in cognitive science, students are required to provide reports and give oral presentations of three team experiments; a fourth individually conducted experiment includes a proposal with revision, and concluding written and oral reports.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.63",
+  "course_image_thumbnail": {
+    "content": "b3d1b558-1aea-bc30-1343-e25334b73b6e",
+    "website": "9-63-laboratory-in-cognitive-science-fall-2002"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "29686ca3-f450-4111-8b76-077ed48e0493",
+  "site_short_id": "9.63-fall-2002",
+  "site_url_path": "courses/9-63-laboratory-in-cognitive-science-fall-2002",
+  "title": "Course Metadata"
+}
